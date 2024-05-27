@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">AI-visualizer</h1>
-<h2>What is this?</h2><br>
+<h2>What is this?</h2>
 AI-visualizer is a small tool written using pygame, that aims to show the inner workings of AI-Neurons using an abstract, dataset-like simulation.
 
 ## Installation
