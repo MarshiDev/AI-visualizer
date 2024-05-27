@@ -3,8 +3,8 @@
 AI-visualizer is a small tool written using pygame, that aims to show the inner workings of AI-Neurons using an abstract, dataset-like simulation.
 
 ## Installation
-Clone the project to your computer using git clone or by downloading it as a zip file. Then run the main.py file using
-```python path/to/your/main.py```
+Clone the project to your computer using git clone or by downloading it as a zip file. Make sure to install all the required python packages using ```pip install -r requirements.txt```.
+Then run the main.py file using ```python path/to/your/main.py```
 
 ## Controls
 In the bottom right, there are two sliders, which you can use to move the red line in the middle, like a linear function.<br>
